@@ -47,4 +47,8 @@ LIMIT 1000
 To process the csv files and download the images use the notebook [proc_images_from_earth_engine_read_csv](./proc_images_from_earth_engine_read_csv.ipynb)
 
 
-### Process & augment images.
+## Process & augment images.
+
+Once the images are downloaded use the notebook [crop_images_and_augment.ipynb](./crop_images_and_augment.ipynb) to crop and augment the images.
+
+Once to crop the images they are ready to be used for the training! yeaaiihh! :)
