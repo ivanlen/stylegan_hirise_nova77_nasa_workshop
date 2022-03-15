@@ -6,7 +6,7 @@ These scripts were used to create [MarsGAN](https://medium.com/@ivalengy/synthet
 
 You can follow for example [this tutorial](https://ivanlen.github.io/how-to-generate-synthetic-mars-images/) to train your own MarsGAN-stylegan with HiRISE data.
 
-Also some of these scripts were used to create the dataset of [Neural Planets](neuralplanets.com).
+Also some of these scripts were used to create the dataset of [Neural Planets](https://neuralplanets.com).
 
 ## Download Data
 ### Download HiRISE data
